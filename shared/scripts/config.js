@@ -9,8 +9,8 @@ const GUEST_LOGINS = {
     }
 }
 
-const API_BASE_URL = 'http://127.0.0.1:8000/api/';
-const STATIC_BASE_URL = 'http://127.0.0.1:8000/';
+const API_BASE_URL = 'http://34.40.114.86/api/';
+const STATIC_BASE_URL = 'http://34.40.114.86/';
 
 
 const LOGIN_URL = 'login/';
